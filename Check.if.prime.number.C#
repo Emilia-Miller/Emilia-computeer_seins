@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+
+        {
+            //int n, i, counter=0;
+            //bool res = false;
+            //n = int.Parse(Console.ReadLine());
+            //for (i = 2; i < n; i++)
+            //{
+            //    if (n%i==0)
+            //    {
+            //         counter ++;
+            //    }
+            //}
+            //if (counter != 0)
+            //{
+            //    Console.WriteLine("non-proime");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Prime");
+
+            //}
+
+        }
+    }
+}
